@@ -26,4 +26,5 @@ to cover edge cases.
 
 # References
 
-http://www.linuxfoundation.org/collaborate/workgroups/networking/netem#Packet_loss
+1. http://www.linuxfoundation.org/collaborate/workgroups/networking/netem#Packet_loss
+2. https://github.com/thombashi/tcconfig
